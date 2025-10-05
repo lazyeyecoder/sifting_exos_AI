@@ -85,18 +85,18 @@ Local URL: http://localhost:8501
 
 ### Future Work
 
-Integrate with raw light curve data from TESS/Kepler for end-to-end automation.
-Improve accuracy using ensemble and deep learning models.
-Add explainable AI (XAI) to show reasoning behind predictions.
-Enable real-time updates from new NASA datasets.
-Build interactive dashboards for visualising light curves and results.
-Expand to other detection methods like radial velocity or microlensing.
-Support user uploads and retraining for continuous learning.
-Include an educational mode for students and astronomy enthusiasts.
+- Integrate with raw light curve data from TESS/Kepler for end-to-end automation.
+- Improve accuracy using ensemble and deep learning models.
+- Add explainable AI (XAI) to show reasoning behind predictions.
+- Enable real-time updates from new NASA datasets.
+- Build interactive dashboards for visualising light curves and results.
+- Expand to other detection methods like radial velocity or microlensing.
+- Support user uploads and retraining for continuous learning.
+- Include an educational mode for students and astronomy enthusiasts.
 
 🏁 Conclusion
 
 Sifting ExoS demonstrates how AI can accelerate exoplanet discovery and public engagement with space data.
 By combining machine learning and NASA’s open datasets, the project makes space exploration more interactive, educational, and accessible to all.
 
-*Note: This text was refined using AI*
+*Note: This readme file was refined using AI*
