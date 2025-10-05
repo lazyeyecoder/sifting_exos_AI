@@ -1,8 +1,8 @@
 # Sifting ExoS – Exoplanet Classification Using NASA Kepler Data
 
 ### Team Information
-**Team Name:** KrishnVivar 
-**Team Member:** Aryan Maurya
+**Team Name:** KrishnVivar | 
+**Team Member:** Aryan Maurya | 
 **Challenge Selected:** A World Away: Hunting for Exoplanets with AI
 
 ---
@@ -49,3 +49,54 @@ The project demonstrates how open NASA space data can be transformed into a user
 2. Enter the 9 required input parameters.
 
 3. The app displays the prediction (Confirmed, Candidate, or False Positive) along with confidence percentages and reasoning.
+
+### NASA Open Data and Technology
+This project is built using:
+- NASA Exoplanet Archive (Kepler KOI Dataset)
+- Python for machine learning and data preprocessing
+- Streamlit for visualisation and deployment
+
+By leveraging publicly available NASA data, we bridge scientific research and accessible technology.
+
+### Model Details
+
+*Algorithm: Random Forest Classifier*
+
+Accuracy: *~80%*
+
+Features Used:
+
+- fpflag_ec
+- model_snr
+- prad
+- impact
+- fpflag_ss
+- fpflag_co
+- koi_duration
+- koi_depth
+- koi_period
+
+### Hosting and Access
+
+The app and project files are hosted on GitHub for public access.
+
+Streamlit:
+Local URL: http://localhost:8501
+
+### Future Work
+
+Integrate with raw light curve data from TESS/Kepler for end-to-end automation.
+Improve accuracy using ensemble and deep learning models.
+Add explainable AI (XAI) to show reasoning behind predictions.
+Enable real-time updates from new NASA datasets.
+Build interactive dashboards for visualising light curves and results.
+Expand to other detection methods like radial velocity or microlensing.
+Support user uploads and retraining for continuous learning.
+Include an educational mode for students and astronomy enthusiasts.
+
+🏁 Conclusion
+
+Sifting ExoS demonstrates how AI can accelerate exoplanet discovery and public engagement with space data.
+By combining machine learning and NASA’s open datasets, the project makes space exploration more interactive, educational, and accessible to all.
+
+*Note: This text was refined using AI*
