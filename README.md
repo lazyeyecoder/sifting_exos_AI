@@ -34,7 +34,7 @@ The project demonstrates how open NASA space data can be transformed into a user
 | [main.py](./main.py) | Model training and feature selection script |
 | [siftingexosaccurate_model.pkl](./siftingexosaccurate_model.pkl) | Trained Random Forest model |
 | [KOI_CSV.csv](./KOI_CSV.csv) | NASA Kepler Object of Interest dataset used for training |
-| This dataset was downloaded from NASA's Website: https://exoplanetarchive.ipac.caltech.edu/cgi-bin/TblView/nph-tblView?app=ExoTbls&config=koi
+| https://exoplanetarchive.ipac.caltech.edu/cgi-bin/TblView/nph-tblView?app=ExoTbls&config=koi | This dataset was downloaded from NASA's Website |
 | [Images](./Images) | Contains outputs and Web Interface of our model |
 | [README.md](./README.md) | Documentation file (this file) |
 
